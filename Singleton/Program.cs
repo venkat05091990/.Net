@@ -64,4 +64,12 @@ namespace DesignPatterns
             }
         }
     }
+
+    class MyClass
+    {
+        static void Main(string[] args)
+        {
+            THreadSafeSingleton hreadSafeSingleton = THreadSafeSingleton.GetInstance;
+        }
+    }
 }
