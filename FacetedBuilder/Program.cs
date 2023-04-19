@@ -96,6 +96,22 @@ namespace DesignPatterns
                      .AtPin("500089")
                      .AtCity("Hyderabad");
 
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             Console.WriteLine(person.ToString());
         }
     }
